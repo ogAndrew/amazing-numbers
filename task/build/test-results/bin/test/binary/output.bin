@@ -1,0 +1,35 @@
+[1;31m
+Start test 1[0m
+Enter a natural number:
+> 0
+This number is not natural!
+[1;31m
+Start test 2[0m
+Enter a natural number:
+> -1
+This number is not natural!
+[1;31m
+Start test 3[0m
+Enter a natural number:
+> -2
+This number is not natural!
+[1;31m
+Start test 4[0m
+Enter a natural number:
+> -3
+This number is not natural!
+[1;31m
+Start test 5[0m
+Enter a natural number:
+> -4
+This number is not natural!
+[1;31m
+Start test 6[0m
+Enter a natural number:
+> -5
+This number is not natural!
+[1;31m
+Start test 7[0m
+Enter a natural number:
+> 1
+The number is Odd.

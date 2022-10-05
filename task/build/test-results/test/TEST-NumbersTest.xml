@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NumbersTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-05T01:40:57" hostname="Andrews-MacBook-Pro.local" time="0.28">
+  <properties/>
+  <testcase name="start" classname="NumbersTest" time="0.28"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Enter a natural number:
+> 0
+This number is not natural!
+?[1;31m
+Start test 2?[0m
+Enter a natural number:
+> -1
+This number is not natural!
+?[1;31m
+Start test 3?[0m
+Enter a natural number:
+> -2
+This number is not natural!
+?[1;31m
+Start test 4?[0m
+Enter a natural number:
+> -3
+This number is not natural!
+?[1;31m
+Start test 5?[0m
+Enter a natural number:
+> -4
+This number is not natural!
+?[1;31m
+Start test 6?[0m
+Enter a natural number:
+> -5
+This number is not natural!
+?[1;31m
+Start test 7?[0m
+Enter a natural number:
+> 1
+The number is Odd.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 8?[0m
+Enter a natural number:
+> 2
+The number is Even.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 9?[0m
+Enter a natural number:
+> 3
+The number is Odd.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 10?[0m
+Enter a natural number:
+> 4
+The number is Even.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 11?[0m
+Enter a natural number:
+> 5
+The number is Odd.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 12?[0m
+Enter a natural number:
+> 6
+The number is Even.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 13?[0m
+Enter a natural number:
+> 7
+The number is Odd.
+It is a Buzz number
+Explanation:
+?[1;31m
+Start test 14?[0m
+Enter a natural number:
+> 8
+The number is Even.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 15?[0m
+Enter a natural number:
+> 9
+The number is Odd.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 16?[0m
+Enter a natural number:
+> 10
+The number is Even.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 17?[0m
+Enter a natural number:
+> 11
+The number is Odd.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 18?[0m
+Enter a natural number:
+> 12
+The number is Even.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 19?[0m
+Enter a natural number:
+> 13
+The number is Odd.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 20?[0m
+Enter a natural number:
+> 14
+The number is Even.
+It is a Buzz number
+Explanation:
+?[1;31m
+Start test 21?[0m
+Enter a natural number:
+> 23014
+The number is Even.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 22?[0m
+Enter a natural number:
+> 25538
+The number is Even.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 23?[0m
+Enter a natural number:
+> 25993
+The number is Odd.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 24?[0m
+Enter a natural number:
+> 20616
+The number is Even.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 25?[0m
+Enter a natural number:
+> 29488
+The number is Even.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 26?[0m
+Enter a natural number:
+> 30267
+The number is Odd.
+It is a Buzz number
+Explanation:
+?[1;31m
+Start test 27?[0m
+Enter a natural number:
+> 27197
+The number is Odd.
+It is a Buzz number
+Explanation:
+?[1;31m
+Start test 28?[0m
+Enter a natural number:
+> 13633
+The number is Odd.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 29?[0m
+Enter a natural number:
+> 10963
+The number is Odd.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 30?[0m
+Enter a natural number:
+> 96
+The number is Even.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 31?[0m
+Enter a natural number:
+> 1159
+The number is Odd.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 32?[0m
+Enter a natural number:
+> 6693
+The number is Odd.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 33?[0m
+Enter a natural number:
+> 26498
+The number is Even.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 34?[0m
+Enter a natural number:
+> 20699
+The number is Odd.
+It is a Buzz number
+Explanation:
+?[1;31m
+Start test 35?[0m
+Enter a natural number:
+> 24354
+The number is Even.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 36?[0m
+Enter a natural number:
+> 3613
+The number is Odd.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 37?[0m
+Enter a natural number:
+> 17272
+The number is Even.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 38?[0m
+Enter a natural number:
+> 6915
+The number is Odd.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 39?[0m
+Enter a natural number:
+> 18693
+The number is Odd.
+It is not a Buzz number
+Explanation:
+?[1;31m
+Start test 40?[0m
+Enter a natural number:
+> 30554
+The number is Even.
+It is not a Buzz number
+Explanation:
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
