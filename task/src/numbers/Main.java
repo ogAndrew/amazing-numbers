@@ -19,8 +19,9 @@ public class Main {
         System.out.printf("even: %b\n", isEven(num));
         System.out.printf("odd: %b\n", !isEven(num));
         System.out.printf("buzz: %b\n", isBuzz(num));
+        System.out.printf("duck: %b\n", isDuck(num));
 
-        isBuzz(num);
+
     }
 
     private static boolean isEven(int num) {
@@ -37,27 +38,29 @@ public class Main {
         int testNum = withoutLast - (lastDigit * 2);
         boolean result = testNum % 7 == 0;
 
-
         if (result || lastDigit == 7) {
-            System.out.println("It is a Buzz number");
-            System.out.println("Explanation:");
-
-            if (lastDigit == 7 && result) {
-                System.out.printf("%d is divisible by 7 and ends with 7.", number);
-            } else if (lastDigit == 7) {
-                System.out.printf("%d ends with 7.", number);
-            } else {
-                System.out.printf("%d is divisible by 7.", number);
-            }
-
+            return true;
         } else {
-            System.out.println("It is not a Buzz number");
-            System.out.println("Explanation:");
-            System.out.printf("%d is neither divisible by 7 nor does it end with 7.", number);
+           return false;
         }
 
+    }
 
-        return result;
+    private static boolean isDuck(int number) {
+        String strNum = String.valueOf(number);
+
+        int i = 0, n = strNum.length();
+        while(i < n && strNum.charAt(i) == '0')
+            i++;
+
+        while (i < n) {
+            if (strNum.charAt(i) == '0') {
+                return true;
+            }
+            i++;
+        }
+
+        return false;
     }
 
 
